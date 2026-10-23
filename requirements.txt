@@ -1,0 +1,12 @@
+# Parseo de PDFs de LibreView
+pypdf>=3.0
+pdfplumber>=0.9
+
+# API LibreLinkUP (cliente asíncrono)
+aiohttp>=3.8
+
+# Modelos Pydantic para datos del sensor
+pydantic>=2.0
+
+# Headless browser para descarga de PDFs desde LibreView
+playwright>=1.40

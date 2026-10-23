@@ -1,0 +1,36 @@
+# Credenciales
+.env
+*.json
+
+# Base de datos
+*.db
+*.db-wal
+*.db-shm
+*.db.bak
+*.db.quarantine.lock
+
+# PDFs descargados
+Descargas/
+
+# Caché Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node (dashboard)
+node_modules/
+.next/
+.env.local
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

@@ -30,9 +30,9 @@ pip3 install -r requirements.txt
 Crear archivo `.env` con:
 ```env
 LIBREVIEW_EMAIL=tu_email_libreview@hotmail.com
-LIBREVIEW_PASSWORD=M@riapia2026
+LIBREVIEW_PASSWORD=tu_password_libreview
 LIBRELINKUP_EMAIL=tu_email_libreview@gmail.com
-LIBRELINKUP_PASSWORD=M@riapia2026
+LIBRELINKUP_PASSWORD=tu_password_libreview
 LIBRELINKUP_REGION=latam
 LIBREVIEW_PDF_DIR=./Descargas/Informes
 ```
