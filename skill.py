@@ -129,17 +129,13 @@ def install_credentials() -> dict:
     from config import configure_api, configure_pdf
 
     print("\n=== LibreView Patient Portal ===")
-    email = input("Email (tu_email_libreview@hotmail.com): ").strip()
-    if not email:
-        email = "tu_email_libreview@hotmail.com"
+    email = input("Email: ").strip() or "tu_email_libreview@hotmail.com"
     password = input("Password: ").strip()
     if not password:
         password = input("Password (repeat): ").strip()
 
     print("\n=== LibreLinkUP Caregiver API ===")
-    email_up = input("Email (tu_email_libreview@gmail.com): ").strip()
-    if not email_up:
-        email_up = "tu_email_libreview@gmail.com"
+    email_up = input("Email: ").strip() or "tu_email_libreviewup@gmail.com"
     password_up = input("Password: ").strip()
     if not password_up:
         password_up = input("Password (repeat): ").strip()
