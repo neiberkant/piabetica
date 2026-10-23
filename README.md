@@ -4,12 +4,7 @@
 
 [English](README.en.md) · [Español](README.md) · [Français](README.fr.md) · [Italiano](README.it.md)
 
-**Demo de PIABETICA:**
-
-<video controls width="100%">
-  <source src="videos/demo.mp4" type="video/mp4">
-  Tu navegador no soporta videos. [Ver demo](videos/demo.mp4)
-</video>
+[VIDEO](videos/demo.mp4)
 
 Skill profesional para monitoreo de glucosa en pacientes con diabetes, integrando dos fuentes de datos de Abbott FreeStyle Libre: API LibreLinkUP en tiempo real y reportes PDF de LibreView. Diseñada para integrarse con Hermes Agent, Claude Code y cualquier LLM.
 

@@ -6,12 +6,7 @@ Skill professionale per il monitoraggio della glicemia nei pazienti diabetici, c
 
 [English](README.en.md) · [Español](README.md) · [Français](README.fr.md) · [Italiano](README.it.md)
 
-**Demo di PIABETICA:**
-
-<video controls width="100%">
-  <source src="videos/demo.mp4" type="video/mp4">
-  Il tuo browser non supporta i video. [Guarda la demo](videos/demo.mp4)
-</video>
+[VIDEO](videos/demo.mp4)
 
 ---
 

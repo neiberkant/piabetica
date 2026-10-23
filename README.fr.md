@@ -6,12 +6,7 @@ Skill professionnel pour la surveillance glycémique chez les patients diabétiq
 
 [English](README.en.md) · [Español](README.md) · [Français](README.fr.md) · [Italiano](README.it.md)
 
-**Démonstration:**
-
-<video controls width="100%">
-  <source src="videos/demo.mp4" type="video/mp4">
-  Votre navigateur ne prend pas en charge la balise vidéo. [Voir la démo](videos/demo.mp4)
-</video>
+[VIDEO](videos/demo.mp4)
 
 ---
 
