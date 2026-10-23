@@ -6,6 +6,13 @@ Professional skill for glucose monitoring in diabetic patients, integrating two 
 
 [English](README.en.md) · [Español](README.md) · [Français](README.fr.md) · [Italiano](README.it.md)
 
+**Demo:**
+
+<video controls width="100%">
+  <source src="videos/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag. [Watch demo](videos/demo.mp4)
+</video>
+
 ---
 
 ## Table of Contents
