@@ -2,6 +2,8 @@
 
 **Desarrollado por Neiber Kant — Con la Colaboración del Dr. Luna Galli**
 
+[English](README.en.md) · [Español](README.md) · [Français](README.fr.md) · [Italiano](README.it.md)
+
 Skill profesional para monitoreo de glucosa en pacientes con diabetes, integrando dos fuentes de datos de Abbott FreeStyle Libre: API LibreLinkUP en tiempo real y reportes PDF de LibreView. Diseñada para integrarse con Hermes Agent, Claude Code y cualquier LLM.
 
 ---
